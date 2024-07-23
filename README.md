@@ -1,2 +1,2 @@
-# spam-_detecter
+# spam_detecter
 Python program to check for spam
